@@ -9,8 +9,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using OdeToFood.Core;
 using OdeToFood.Data;
-// using OdeToFood.Core;
-// using OdeToFood.Data;
 
 namespace OdeToFood.Web.Pages.Restaurants
 {
